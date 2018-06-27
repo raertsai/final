@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\finals\finals\bin\Debug\finals.exe.config
+C:\Users\USER\Desktop\finals\finals\bin\Debug\finals.exe
+C:\Users\USER\Desktop\finals\finals\bin\Debug\finals.pdb
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\finals\finals\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\finals\finals\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals_MarkupCompile.cache
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals_MarkupCompile.lref
+C:\Users\USER\Desktop\finals\finals\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.g.resources
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.Properties.Resources.resources
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.exe
+C:\Users\USER\Desktop\finals\finals\obj\Debug\finals.pdb
+C:\Users\USER\Desktop\finals\finals\obj\Debug\add.g.cs
+C:\Users\USER\Desktop\finals\finals\obj\Debug\add.baml

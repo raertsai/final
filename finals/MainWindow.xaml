@@ -1,0 +1,29 @@
+﻿<Window x:Class="finals.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:finals"
+        mc:Ignorable="d"
+        Title="Memoryou" Height="400" Width="260">
+    <Grid Background="	#ff79bc">
+        <Grid Width="260" Margin="0,0,-6,335" Background="#9f4d95">
+            <TextBlock FontSize="20" FontStyle="Italic" Foreground="White" Margin="0,0,0,-0.333">U are Always on My Mind</TextBlock>
+        </Grid>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <TextBox x:Name="Textarea" AcceptsReturn="True" TextWrapping="Wrap" Width="200" Height="160" Margin="0 0 0 0" Background="	#ffaad5"/>
+        </ScrollViewer>
+        <Grid>
+            <Button x:Name="sent_btn" Click="sent_click" Background="#66b3ff" BorderBrush="LightGray" BorderThickness="2" Width="45" Height="40" Margin="100 250 0 0" FontSize="22" Foreground="White" >✉</Button>
+        </Grid>
+        
+        <Grid >
+            <Button x:Name="pic" Click="pic_click" Background="#ffaf60" BorderBrush="LightGray" BorderThickness="2" Width="45" Height="40" Margin="-100 250 0 0" FontSize="20"  Foreground="White">☺</Button>
+        </Grid>
+
+        <TextBlock Width="50" Height="30" Margin="-140 -200 0 0" FontSize="18" Foreground="White">Dear:</TextBlock>
+        <TextBox x:Name="name" AcceptsReturn="True" TextWrapping="Wrap" Width="75" Height="25" Margin="10 -205 0 0" Background="#fff0ac"></TextBox>
+
+    </Grid>
+</Window>
